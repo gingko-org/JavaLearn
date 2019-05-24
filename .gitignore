@@ -85,3 +85,8 @@ local.properties
 .idea/*
 JavaLearn.iml
 .idea/
+
+
+# out class file
+out/
+out/*
