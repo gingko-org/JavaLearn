@@ -20,5 +20,7 @@ public class Exer2_17 {
         } else {
             System.out.println("These numbers are equal");
         }
+
+        scanner.close();
     }
 }

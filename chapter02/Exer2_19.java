@@ -21,5 +21,7 @@ public class Exer2_19 {
         System.out.println("圆的直径：" + (2 * r));
         System.out.println("圆的周长：" + (2 * pi * r));
         System.out.println("圆的面积：" + (pi * r * r));
+
+        scanner.close();
     }
 }

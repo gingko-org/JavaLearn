@@ -37,5 +37,7 @@ public class Exer2_18 {
 
         System.out.println(num1 + "、" + num2 + "、" + num3 + "的最小值为：" + min);
         System.out.println(num1 + "、" + num2 + "、" + num3 + "的最大值为：" + max);
+
+        scanner.close();
     }
 }
