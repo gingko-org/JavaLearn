@@ -1,3 +1,5 @@
+package chapter04;
+
 import java.util.Scanner;
 
 public class Exer4_25 {
@@ -18,5 +20,7 @@ public class Exer4_25 {
         }
 
         System.out.println("转化为十进制数为" + num_dec);
+
+        scanner.close();
     }
 }

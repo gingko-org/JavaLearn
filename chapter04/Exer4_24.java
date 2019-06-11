@@ -1,3 +1,5 @@
+package chapter04;
+
 import java.util.Scanner;
 
 public class Exer4_24 {
@@ -18,5 +20,7 @@ public class Exer4_24 {
         } else {
             System.out.println(num + "不是回文数！");
         }
+
+        scanner.close();
     }
 }

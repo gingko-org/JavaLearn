@@ -1,3 +1,5 @@
+package chapter04;
+
 public class Exer4_16 {
     public static void main(String[] args) {
         // 编写一个Java应用程序，用循环结构打印如下的数值列表：

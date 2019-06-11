@@ -23,5 +23,7 @@ public class Exer4_29 {
         } else {
             System.out.println(l1 + "、" + l2 + "和" + l3 + "可以构成三角形！");
         }
+
+        scanner.close();
     }
 }
